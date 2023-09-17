@@ -22,7 +22,7 @@ public class splah extends AppCompatActivity {
             public void run() {
                 nextActivity();
             }
-        },2000);
+        },3000);
 
     }
 
